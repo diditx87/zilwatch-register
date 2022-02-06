@@ -7,7 +7,7 @@ const {
     getAddressFromPrivateKey,
 } = require('@zilliqa-js/crypto');
 
-const zilliqa = new Zilliqa('https://ssn.zillet.io/');
+const zilliqa = new Zilliqa('https://seed-zil.shardpool.io');
 const CHAIN_ID = 1;
 const MSG_VERSION = 1;
 const VERSION = bytes.pack(CHAIN_ID, MSG_VERSION);
