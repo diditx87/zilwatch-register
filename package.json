@@ -1,0 +1,19 @@
+{
+  "name": "zilwatch",
+  "version": "1.0.1",
+  "description": "zilwatch tools",
+  "main": "regis.js",
+  "dependencies": {
+    "@zilliqa-js/crypto": "^3.3.4",
+    "@zilliqa-js/util": "^3.3.4",
+    "@zilliqa-js/zilliqa": "^3.3.4",
+    "readline-sync": "^1.4.10",
+    "zilliqa-js": "^0.1.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
