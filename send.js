@@ -32,7 +32,6 @@ async function send(address) {
 	}else{
 		console.log(`zil gagal dikirim`)
 	}
-	process.exit(1);
 }
 
 ; (async () => {
