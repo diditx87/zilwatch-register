@@ -29,4 +29,5 @@ node regis.js
 ## Alur
 1. create address dulu
 2. isi 1 zil ke setiap address dengan send.js , jangan regis dulu karena jaringan zil lemot. isi zil sampe semua address ke isi (sudah detek address yang sudah ada zilnya jadi tidak dobel)
-3. regis jika semua address sudah terisi 1 Zil
+3. untuk isi dan regis 10 10 aja dulu, karena jaringan zil lemot
+4. regis jika semua address sudah terisi 1 Zil
