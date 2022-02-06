@@ -24,6 +24,9 @@ node send.js
 
 # Regis wallet into Zilwatch
 node regis.js
+
+# Check wallet Success Fund or Not
+node cek.js
 ```
 
 ## Alur
